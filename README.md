@@ -1,3 +1,3 @@
 # calculator
 
-# tampilan kalkulator sederhana dengan html
+tampilan kalkulator sederhana dengan html
